@@ -1,4 +1,4 @@
-> [!CAUTION}
+> [!CAUTION]
 >
 > This repo was part of the dependencies for the old edge device (UED).
 > It is archived as it is no longer needed.
