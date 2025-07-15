@@ -1,6 +1,6 @@
 > [!CAUTION]
 >
-> This repo was part of the dependencies for the old edge device (UED).
+> This repo was part of the dependencies for the [old edge device (UED)](https://github.com/Stabl-Energy/Rust-SBC-Client).
 > It is archived as it is no longer needed.
 
 # Safe Rust wrappers for the services in the [ESP IDF SDK](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)
